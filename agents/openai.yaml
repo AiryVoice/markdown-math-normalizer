@@ -1,0 +1,4 @@
+version: 1
+display_name: Markdown Math Normalizer
+short_description: Fix Markdown math formatting issues.
+default_prompt: Normalize AI-generated Markdown math and preserve non-math text.
